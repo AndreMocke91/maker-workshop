@@ -1,0 +1,69 @@
+{
+	"FormatVersion": 0,
+	"bIsIncompleteInstall": false,
+	"AppVersionString": "4.24.3-11590370+++UE4+Release-4.24-Windows",
+	"LaunchCommand": "",
+	"LaunchExecutable": "Engine/Binaries/Win64/UE4Editor.exe",
+	"ManifestLocation": "C:\\Program Files\\Epic Games\\UE_4.24/.egstore",
+	"bIsApplication": false,
+	"bIsExecutable": true,
+	"bIsManaged": false,
+	"bNeedsValidation": false,
+	"bRequiresAuth": false,
+	"bCanRunOffline": false,
+	"AppName": "UE_4.24",
+	"BaseURLs": [
+		"http://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Engine/CloudDir",
+		"http://download.epicgames.com/Builds/Rocket/Automated/Engine/CloudDir",
+		"http://download2.epicgames.com/Builds/Rocket/Automated/Engine/CloudDir",
+		"http://download3.epicgames.com/Builds/Rocket/Automated/Engine/CloudDir",
+		"http://download4.epicgames.com/Builds/Rocket/Automated/Engine/CloudDir"
+	],
+	"BuildLabel": "Live",
+	"CatalogItemId": "3ddb1bad6e004b99a7192c1a29f2318a",
+	"CatalogNamespace": "ue",
+	"AppCategories": [
+		"engines",
+		"engines/ue4"
+	],
+	"ChunkDbs": [],
+	"CompatibleApps": [],
+	"DisplayName": "Unreal Engine",
+	"FullAppName": "UE_4.24: Live",
+	"InstallationGuid": "37B550FE46015F9A0FE23591345C988C",
+	"InstallLocation": "C:\\Program Files\\Epic Games\\UE_4.24",
+	"InstallSessionId": "634CE4584BFBA216F92BDE8344E57E97",
+	"InstallTags": [
+		"",
+		"starter_content",
+		"templates",
+		"engine_source",
+		"platform_Android",
+		"platform_IOS",
+		"platform_Linux"
+	],
+	"InstallComponents": [
+		"1B850664276C402C99DF100AA3929941",
+		"5E920CA79CEB4EE19410D39C466FF0E2",
+		"731B764E6A4C40329312344A2135CCB8",
+		"CB123B59638C4CFAA8B31177DAF7C1CF",
+		"8DDE45F7A88E42F4B1018BC0BDBBBF59",
+		"8487D73794CD443A8B892FC7433F2911",
+		"5965869BA62245608A6A84D27EC7AE43",
+		"5DA8B4D77DB1411BB9D7E657F66F70BE"
+	],
+	"HostInstallationGuid": "00000000000000000000000000000000",
+	"PrereqIds": [
+		"417E12C4582EE2FCFCDF255A1174703B78C41A2C"
+	],
+	"StagingLocation": "C:\\Program Files\\Epic Games\\UE_4.24/.egstore/bps",
+	"TechnicalType": "engines,engines/ue4",
+	"VaultThumbnailUrl": "",
+	"VaultTitleText": "",
+	"InstallSize": 32952542984,
+	"MainWindowProcessName": "",
+	"ProcessNames": [],
+	"MainGameAppName": "UE_4.24",
+	"MandatoryAppFolderName": "UE_4.24",
+	"OwnershipToken": "false"
+}

@@ -1,0 +1,14 @@
+{
+	"InstallationList": [
+		{
+			"InstallLocation": "C:\\Program Files\\Epic Games\\UE_4.24",
+			"AppName": "UE_4.24",
+			"AppVersion": "4.24.3-11590370+++UE4+Release-4.24-Windows"
+		},
+		{
+			"InstallLocation": "C:\\Program Files\\Epic Games\\ForTheKing",
+			"AppName": "Discus",
+			"AppVersion": "5"
+		}
+	]
+}

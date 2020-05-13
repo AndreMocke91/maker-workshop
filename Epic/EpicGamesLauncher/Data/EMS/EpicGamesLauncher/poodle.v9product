@@ -1,0 +1,123 @@
+﻿{
+	"Id": "poodle",
+	"Priority": 31,
+	"AnalyticsId": "poodle",
+	"DisplayName": "Twinmotion",
+	"DisplayName_ko": "",
+	"CatalogNamespace": "poodle",
+	"EulaExpression": "Twin",
+	"BackgroundImage": "",
+	"BackgroundFillImage": "#212121",
+	"LibraryImage": "ShadowComplex.png",
+	"LibraryLogo": "ShadowComplexLogo.png",
+	"PrimaryColor": "#DD2367",
+	"PressedPrimaryColor": "#DD2367",
+	"HoveredPrimaryColor": "#DD2367",
+	"Requirements": {
+		"DirectX": {
+			"FeatureLevels": "D3D_FEATURE_LEVEL_9_0"
+		}
+	},
+	"Homepage": "/twinmotion/new",
+	"ParentProductId": "ue",
+	"Pages": [
+		{
+			"Id": "twinmotion",
+			"PartialUrl": "/twinmotion",
+			"ProductId": "poodle",
+			"SourceUrls": [
+				{
+					"SourceUrl": "ui_TwinmotionHome.layout"
+				}
+			]
+		},
+		{
+			"Id": "twinmotion.TM_2019",
+			"PartialUrl": "/twinmotion/TM_2019",
+			"ProductId": "poodle",
+			"SourceUrls": [
+				{
+					"SourceUrl": "ui_Twinmotion2019.layout"
+				}
+			]
+		},
+		{
+			"Id": "twinmotion.TM_2020_1",
+			"PartialUrl": "/twinmotion/TM_2020_1",
+			"ProductId": "poodle",
+			"SourceUrls": [
+				{
+					"SourceUrl": "ui_Twinmotion2020_1.layout"
+				}]
+		},
+		{
+			"Id": "twinmotion.TM_EDU_2020_1",
+			"PartialUrl": "/twinmotion/TM_EDU_2020_1",
+			"ProductId": "poodle",
+			"SourceUrls": [
+				{
+					"SourceUrl": "ui_Twinmotion2020_1_EDU.layout"
+				}]
+		},
+		{
+			"Id": "twinmotion.TM_Trial_2020_1",
+			"PartialUrl": "/twinmotion/TM_Trial_2020_1",
+			"ProductId": "poodle",
+			"SourceUrls": [
+				{
+					"SourceUrl": "ui_Twinmotion2020_1_Trial.layout"
+				}]
+		},
+		{
+			"Id": "twinmotion-load-error",
+			"PartialUrl": "/twinmotion*/load-error",
+			"SourceUrl": "ui_PoodlePlay_Offline.layout",
+			"ProductId": "poodle"
+		}
+	],
+	"Redirects": [
+	
+	],
+	"Apps": [
+		{
+			"Name": "TM_2020.1",
+			"GroupId": "Game",
+			"OfferId": "cdeefa71480c4dd487490cbe2828ac45",
+			"ItemId": "db2ac028dc1844f0a6ef62f9c5daee42",
+			"LaunchPermissions": "NoInternet,WithoutLauncher,NoKoreanIdVerification,MultiLaunch",
+			"NavigationUrl": "/ue/twinmotion/twinmotion/TM_2020_1",
+			"DisplayRequiresEntitlement": true
+		},
+		{
+			"Name": "TM_EDU_2020.1",
+			"GroupId": "Game",
+			"OfferId": "6939cd0dcd2d4d969eddb317da6682c6",
+			"ItemId": "a0230f273974460c8b5f7975350d20f1",
+			"LaunchPermissions": "NoInternet,WithoutLauncher,NoKoreanIdVerification,MultiLaunch",
+			"NavigationUrl": "/ue/twinmotion/twinmotion/TM_EDU_2020_1",
+			"DisplayRequiresEntitlement": true
+		},
+		{
+			"Name": "TM_Trial_2020.1",
+			"GroupId": "Game",
+			"OfferId": "5ea136ba7cd94bfb94bc2fc5d618a584",
+			"ItemId": "a6e024a657f84d4b976e5d7990c81bce",
+			"LaunchPermissions": "NoInternet,WithoutLauncher,NoKoreanIdVerification,MultiLaunch",
+			"NavigationUrl": "/ue/twinmotion/twinmotion/TM_Trial_2020_1",
+			"DisplayRequiresEntitlement": false
+		},
+		{
+			"Name": "Poodle",
+			"GroupId": "Game",
+			"OfferId": "bc579ea411fa447899337569ebc8624c",
+			"ItemId": "7b443be3671842eeb181cc61facfe301",
+			"LaunchPermissions": "NoInternet,WithoutLauncher,NoKoreanIdVerification,MultiLaunch",
+			"NavigationUrl": "/ue/twinmotion/twinmotion/TM_2019",
+			"DisplayRequiresEntitlement": true
+		}	
+	],
+	"DefaultRegionId": "",
+	"Regions": [
+
+	]
+}
